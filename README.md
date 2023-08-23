@@ -1,3 +1,9 @@
+Download the Raylib Library on your setup to run this game.
+<p align="center">
+<a href="https://www.raylib.com/">Raylib Library</a>
+</p>
+
+
 # Raylib C++ Starter Template
 
 Raylib C++ Starter Template for Visual Studio Code on Windows.
